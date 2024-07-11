@@ -1,0 +1,28 @@
+#Fnuevo {
+    display: grid;
+    grid-template-columns: 150px;
+    grid-row-gap: 8px;
+}
+
+#btnListar {
+    margin-top: 10px;
+}
+
+#listaRegistros {
+    margin-top: 20px;
+    border: 1px solid #000;
+    padding: 10px;
+    max-width: 300px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+    margin-top: 5px;
+    cursor:pointer;
+}
